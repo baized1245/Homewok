@@ -75,3 +75,15 @@ hr{
     font-size: 16px;
     color: #562EFF;
 }
+/* courses */
+.course .course-banner img{
+    width: 224px;
+    height: 104px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.course-info{
+    display: flex;
+    width: 15px;
+    height: 15px;
+}
